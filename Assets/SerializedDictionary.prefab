@@ -3,5 +3,7 @@ MonoBehaviour:
   m_Stats:
     m_Keys:
     - Goblin
+    - Dragon
     m_Values:
-    - 1
+    - 2
+    - 9

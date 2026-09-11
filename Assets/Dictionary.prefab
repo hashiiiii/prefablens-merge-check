@@ -2,4 +2,6 @@
 MonoBehaviour:
   m_Stats:
   - key: Goblin
-    value: 1
+    value: 2
+  - key: Dragon
+    value: 9

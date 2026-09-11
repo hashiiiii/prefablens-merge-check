@@ -4,6 +4,6 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 50, guid: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb, type: 3}
       propertyPath: items.Array.data[0].speed
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb, type: 3}

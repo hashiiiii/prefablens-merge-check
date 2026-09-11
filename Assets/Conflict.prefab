@@ -1,5 +1,5 @@
 --- !u!114 &1
 MonoBehaviour:
-  m_Items: [A]
-  m_Left: 1
+  m_Items: [A, O1, O2]
+  m_Left: 2
   m_Right: 1
