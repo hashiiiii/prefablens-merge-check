@@ -1,0 +1,5 @@
+--- !u!114 &1
+MonoBehaviour:
+  m_Config:
+    value: 1
+  m_After: keep
