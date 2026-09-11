@@ -12,4 +12,4 @@ Transform:
 --- !u!54 &54
 Rigidbody:
   m_GameObject: {fileID: 1}
-  m_Mass: 1
+  m_Mass: 2

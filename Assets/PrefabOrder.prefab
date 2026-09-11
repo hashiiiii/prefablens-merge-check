@@ -11,12 +11,12 @@ PrefabInstance:
       value: Root
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 11111111111111111111111111111111, type: 3}
-      propertyPath: m_TagString
-      value: Untagged
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 11111111111111111111111111111111, type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 11111111111111111111111111111111, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

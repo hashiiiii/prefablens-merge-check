@@ -3,5 +3,7 @@ MonoBehaviour:
   m_Stats:
     m_Keys:
     - Goblin
+    - Slime
     m_Values:
-    - 1
+    - 3
+    - 2

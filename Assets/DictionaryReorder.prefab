@@ -1,9 +1,9 @@
 --- !u!114 &1
 MonoBehaviour:
   m_Stats:
-  - key: a
-    value: 1
   - key: b
     value: 2
+  - key: a
+    value: 1
   - key: c
     value: 3

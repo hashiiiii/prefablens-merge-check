@@ -8,8 +8,8 @@ Transform:
   m_GameObject: {fileID: 100}
   m_Children:
   - {fileID: 410}
-  - {fileID: 420}
   - {fileID: 430}
+  - {fileID: 420}
   m_Father: {fileID: 0}
 --- !u!1 &110
 GameObject:

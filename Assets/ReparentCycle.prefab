@@ -7,7 +7,6 @@ GameObject:
 Transform:
   m_GameObject: {fileID: 1}
   m_Children:
-  - {fileID: 40}
   - {fileID: 41}
   m_Father: {fileID: 0}
 --- !u!1 &10
@@ -20,7 +19,7 @@ Transform:
   m_GameObject: {fileID: 10}
   m_Children:
   - {fileID: 42}
-  m_Father: {fileID: 4}
+  m_Father: {fileID: 42}
 --- !u!1 &11
 GameObject:
   m_Component:
@@ -40,7 +39,8 @@ GameObject:
 --- !u!4 &42
 Transform:
   m_GameObject: {fileID: 20}
-  m_Children: []
+  m_Children:
+  - {fileID: 40}
   m_Father: {fileID: 40}
 --- !u!54 &54
 Rigidbody:
